@@ -1,3 +1,35 @@
+Game Careers
+
+
+Game Programming
+	A programming language is responsible for the programming of functionally with the use of a code. They code the movement of the enemies in the game itself. A programmer must understand how to complete a task presented to them and make sure it’s optimized in order to run smoothly. They must learn math, computer languages and how memory is stored in the game. There are many responsibilities that a  programmer must follow in order to have a game run smoothly and be a fun experience for the player.
+Some Disciplines for game programmers
+AI Programmer
+			AI programmers must understand the bases of learning algorithms in base computing. They also must work with game designers in order to capture the gameplay aspect of an enemy, and with writers to make sure the enemy fits in with the story too. They must make the enemy fun and challenging but not impossible.
+Physics Programmer
+	A Physics programmer must understand physics and math in order to capture that realist physics in a video game. They also need to optimize the code so that it doesn’t use too much memory when calculating physics. They must understand mass gravity Newton's laws and everything works with them to be a game.
+ Game play programmer
+	A game play programmer is responsible for the gameplay and function that the player can do. A game programmer must understand basic coding as well as game design too or work with a game designer to make sure the game is fun and playable. They must know what kind of game they’re making and how that player should play out in that world. 
+ Graphic Programmer 
+	A graphic programmer is tasked with making the graphics optimized so the game doesn’t need an expensive graphic card to run. A graphic programmer must understand basic light physics and how to implement lighting into a game. They must be able to bridge the gap between artist and programmers with the graphics. As well as understanding DirectX or Vulkan a graphic api in order to make the graphics of a game. 
+
+
+
+Game Design:
+	Game designers create the rules, mechanics, and the functionality of gameplay. The job of a designer is to make sure that player gameplay, the world around the player, and mechanics all work together to create a fun and enjoyable experience. Game designers need to be able to think outside the box and look for complex problems on the daily. Some of the roles that a game designer can have are level design, enemy functionality, and player feel. Game designers are one of the most important aspects of a game's development as they are the cornerstone of gameplay. They need to be creative to create a fun yet complex game.
+
+Game Artist:
+	Game artists are responsible for the look of a game. They’re needed in order for the game's look or style of the game. Game Art is generalized into sub categories of art, 3d game artist, character designer, animation, and world environment. Each of these categories all have one thing in common that artists need to be creative when designing the game. For example a character designer needs to create a character that fits the personality, so if a character is hot headed an artist might make him reflect that personality. An animator needs to create animation that reflects the design of a character or object. A game artist is responsible for the look and paint of a game, without the art the game wouldn’t have personality. 
+
+Audio Designer: 
+	An audio designer is responsible for the sound of a game and is an overlooked but important job in game development. An audio designer would be presented with multiple task of audio such as props sfx, environmentally sound, ambient noise in levels, and adding sounds to animations. What they will do is either use samples of audio libraries to create sounds for everything in the game. If an animation needs sound what an audio designer would do is get a video of said animation and go through it and add sound effects to every aspect of the animation. For example, imagine a reload of a gun. The audio designer would look through it and add the sounds of clicking, the metal rumbling against each other just for the gun to sound good. The illusion of sound is one that is required for a game to sound realistic but nice to the ear too. An audio designer is responsible for everything you hear in the game.
+
+Game Director:
+	A game director is responsible for everything that goes on in the game. The director is the one who controls everything in the game. They make sure people who work on the game get the final image. The role is the guild of the game making sure everyone works smoothly. In order to understand this job you must be able to lead and tell people what to do. Think of it like a movie director and the game a movie. The director must approve the final product making sure game development is smooth and that it makes the final release date.
+
+
+
+
 Id Tech Engine: Is the original game engine that Id Tech used to make doom. Created by John Carmack, with the help of John Romero, Dave Taylor, and Paul Radek. The game engine, while it looks 3d, is actually 2d or known by the community as 2.5d. Levels were created from a top down layout  that the player would raycast over to create a 3d look. Similar to Wolfenstein raycast technology was used for Doom and creating the 3d environments. One thing the engine perfected was dimensioning stairs and elevators. One thing that was great about the engine is support for mods thanks to John Carmack. That means mods can be made with the engine for doom. However one con was that you couldn’t test the level until it was completed and built, so minor issues in levels couldn’t be fixed as easily, which makes some secrets in level impossible to get.  
 
 Pros: great tool that advanced the video game industry.
